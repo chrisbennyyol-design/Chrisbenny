@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Chris Benny - I Build Websites That Bring Customers To Your DM</title>
+<style>
+body{background:#111;color:#fff;font-family:Arial;margin:0;padding:20px}
+h1{font-size:32px;line-height:1.2}
+p{color:#aaa;line-height:1.6}
+.btn{display:block;background:#25D366;color:#fff;text-align:center;padding:20px;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;margin:20px 0}
+.card{background:#1e1e1e;padding:15px;border-radius:15px;margin:10px 0;border:1px solid #333}
+.small{color:#888;font-size:12px;text-align:center;margin-top:10px}
+</style>
+</head>
+<body>
+<div style="font-weight:bold;font-size:18px;margin-bottom:20px">Chris Benny • <span style="color:#25D366">Available for freelance</span></div>
+<h1>I Build Websites That Bring Customers To Your DM</h1>
+<p>Web Designer & Developer • I turn your brand into high-converting websites that drive leads & sales on WhatsApp.</p>
+<a class="btn" href="https://wa.me/2348029414157?text=Hi%20Chris%2C%20I%20need%20a%20website%20that%20brings%20customers%20to%20my%20DM">Chat with me on WhatsApp</a>
+<div class="small">Quick response • Usually within 1 hour</div>
+
+<h3 style="margin-top:30px">Selected Work</h3>
+<div class="card"><b>Namcare Pharmacy</b><br><span style="color:#aaa">Supermarket • Owerri - Live Site</span></div>
+<div class="card"><b>Ecommerce Store</b><br><span style="color:#aaa">DTC Brand • Conversion +42%</span></div>
+<div class="card"><b>Local Business</b><br><span style="color:#aaa">Booking Website • Leads +65%</span></div>
+
+<h3 style="margin-top:30px">Services</h3>
+<div class="card">✅ Website Design - Modern & Responsive</div>
+<div class="card">✅ Development - Fast & SEO Ready</div>
+<div class="card">✅ WhatsApp Automation - Leads to DM</div>
+
+<div class="small" style="margin-top:40px;padding-bottom:30px">© 2026 Chris Benny<br>Port Harcourt • +234 802 941 4157<br>All websites drive to WhatsApp DM</div>
+</body>
+</html>
